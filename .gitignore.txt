@@ -1,0 +1,20 @@
+# Vivado / XSIM simulation files
+*.log
+*.jou
+*.wdb
+*.pb
+*.vcd
+xsim.dir/
+
+# Vivado project-generated folders
+*.cache/
+*.sim/
+*.ip_user_files/
+*.hw/
+*.Xil/
+*.runs/
+*.xpr
+
+# OS-specific
+.DS_Store
+Thumbs.db
